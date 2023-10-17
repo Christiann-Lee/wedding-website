@@ -197,10 +197,10 @@ $(document).ready(function () {
             end: new Date('Nov 29, 2023 00:00'),
 
             // Event Address
-            address: 'ITC Fortune Park Hotel, Kolkata',
+            address: 'ITC Fortune Park Hotel, Sri Lanka',
 
             // Event Description
-            description: "We can't wait to see you on our big day. For any queries or issues, please contact Mr. Amit Roy at +91 9876543210."
+            description: "We can't wait to see you on our big day. For any queries or issues, please contact Ms. Madya Dissanayaka at +91 9876543210."
         }
     });
 
