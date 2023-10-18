@@ -252,18 +252,13 @@ Hero
 ========================================================================== */
 .hero {
   min-height: 750px;
-  background: url('../img/hero-min.jpg') center center;
+  background: url('../customImg/Hero_BG.JPG') center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
   position: relative;
 
-  /*.rsvp-btn {
-    position: absolute;
-    bottom: 100px;
-    left: 50%;
-  }*/
   .down-arrow a {
     color: $txt-light;
   }
@@ -281,8 +276,8 @@ Hero
     padding-top: 40%;
   }
   .hero-content img {
-    width: 55%;
-    margin-bottom: 12%;
+    width: 40%;
+    margin-bottom: 20%;
   }
 }
 .navigation {
